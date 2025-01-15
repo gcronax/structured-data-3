@@ -20,20 +20,6 @@ public class maps_4 {
 
         }
         System.out.println(aux_map);
-        
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
     }
